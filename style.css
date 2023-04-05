@@ -1,0 +1,39 @@
+.heading{
+font-size: 30px;
+color: black;
+margin: 0px;
+width: 100%;
+box-shadow: 10px 10px 10px orange;
+}
+
+.note{
+font-size: 20px;
+color: rgb(0, 14, 138);
+}
+
+body{
+background-image: url("Background.jpg");
+background-size: cover;
+}
+
+#song_name{
+font-size: 20px;
+}
+
+#footer{
+position: fixed;
+bottom: 0;
+background-color: white;
+line-height: 2;
+width: 100%;
+font-size: 20px;
+font-family:monospace ;
+text-align: center;
+font-weight: bold;
+}
+
+canvas{
+border: 5px solid white;
+border-radius: 10px;
+box-shadow: 10px 10px 10px white;
+}
